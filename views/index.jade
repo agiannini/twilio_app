@@ -1,0 +1,17 @@
+extends layout
+
+block content
+
+  div
+    table.table.table-dark
+      thead
+        tr
+          th Number
+          th Info
+      tbody
+        each result in results
+          tr
+            td
+              a(href="sms:#{result.number}") #{result.number}
+            td= result.message
+

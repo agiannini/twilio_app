@@ -1,0 +1,23 @@
+
+> parkingapp@0.0.0 start /home/ubuntu/parkingApp
+> node ./bin/www
+
+[0mGET / [31m500 [0m417.341 ms - 2170[0m
+connected
+[0mGET /stylesheets/style.css [32m200 [0m3.149 ms - 111[0m
+[0mGET /logo.png [32m200 [0m0.617 ms - 11572[0m
+[0mGET /favicon.ico [33m404 [0m31.598 ms - 1438[0m
+connected
+[0mGET / [32m200 [0m24.952 ms - 1023[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.284 ms - -[0m
+[0mGET /logo.png [36m304 [0m1.401 ms - -[0m
+connected
+[0mGET / [36m304 [0m39.491 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.610 ms - -[0m
+[0mGET /logo.png [36m304 [0m0.348 ms - -[0m
+connected
+[0mGET / [32m200 [0m41.440 ms - 1111[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.324 ms - -[0m
+[0mGET /logo.png [36m304 [0m0.250 ms - -[0m
+connected
+[0mGET / [32m200 [0m51.836 ms - 1111[0m

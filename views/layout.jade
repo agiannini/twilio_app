@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css')
+
+
+  body
+
+    nav.navbar.navbar-dark.bg-dark
+      a.navbar-brand(href='#')
+        img(src='/logo.png', width='242', height='70', alt='')
+        span.navbar-text
+          //| Parking Application
+        
+        a.btn.btn-success(href='sms:+17039362737', role='button') Text 703 936 2737 
+
+  block content

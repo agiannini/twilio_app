@@ -1,0 +1,3 @@
+Lifecycle scripts included in parkingapp:
+  start
+    node ./bin/www
